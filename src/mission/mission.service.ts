@@ -1,3 +1,4 @@
+class MissionService 
 private readonly missions = [
     { id: 1, codename: 'OPERATION_STORM', status: 'ACTIVE' },
     { id: 2, codename: 'SILENT_SNAKE', status: 'COMPLETED' },
